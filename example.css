@@ -1,0 +1,124 @@
+.avatar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    border-radius: 25px;
+    box-shadow: 5px 5px 14px;
+}
+
+.header{
+    display: block;
+    margin: 0 auto;
+    background: rgb(255, 168, 137);
+    padding: 20px;
+    border-radius: 25px;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.avatar-text{
+    text-align: center;
+}
+
+.social{
+    display: block;
+    margin-left: 60%;
+    background: rgb(255, 137, 137);
+    padding: 20px;
+    border-radius: 25px;
+    max-width: 500px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.social a {
+    text-decoration: none;
+}
+
+a {
+    color: black;
+}
+
+a:hover{
+    color: rgb(255, 255, 255);
+}
+
+a:active {
+    color: rgb(200, 200, 200);
+}
+
+.hobby {
+    background: rgb(136, 255, 100);
+    display: block;
+    margin-left: 10%;
+    padding: 20px;
+    border-radius: 25px;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+.hobby h2 {
+    text-align: center;
+}
+.hobby ol {
+    list-style: none;
+    text-align: center;
+    padding-left: 0px;
+}
+
+.course {
+    background: rgb(100, 237, 255);
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 25px;
+    max-width: 500px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.course a {
+    text-decoration: none;
+}
+
+.contact {
+    background: rgb(255, 169, 241);
+    display: block;
+    margin: 0 auto;
+    border-radius: 25px;
+    max-width: 500px;
+    margin-bottom: 20px;
+    width: 400px;
+}
+
+.contact h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.contact form {
+    padding-left: 10%;
+    padding-bottom: 10px;
+}
+
+.form-group input{
+    width: 90%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.form-group textarea{
+    width: 90%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    background: rgba(255, 255, 255, 0.6);
+}
+
+.btm {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+}
